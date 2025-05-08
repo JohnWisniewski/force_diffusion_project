@@ -1,0 +1,13 @@
+# Ignore Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore generated outputs
+checkpoints/
+samples/
+
+# Optional: VS Code and OS-specific
+.vscode/
+.DS_Store
+Thumbs.db
